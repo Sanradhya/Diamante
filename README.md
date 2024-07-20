@@ -182,3 +182,4 @@ Click "Manage Data" to set or delete the key-value pair.
 Navigate to the "Set Options" page.
 Enter the sender's secret key, inflation destination, home domain, and thresholds.
 Click "Set Options" to update the account options.
+# Diamante_myapp
